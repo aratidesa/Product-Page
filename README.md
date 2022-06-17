@@ -1,4 +1,6 @@
 
 # Product-Page
-Product Page. Tools used are HTML and CSS
-![ProductPage](https://user-images.githubusercontent.com/99597655/173821970-7228662b-8cef-422c-820f-fe6082c0a8c9.jpg)
+Product Page. Technology Stack:- HTML and CSS
+
+![Product Page](https://user-images.githubusercontent.com/99597655/174246289-5baf7517-0693-492e-b155-32d6010a17f4.png)
+
